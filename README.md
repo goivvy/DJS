@@ -21,6 +21,16 @@ Webpagetest.org:
 https://www.goivvy.com/media/wysiwyg/defer-javascript-user-guide/djs_webpagetest.jpg
 
 
+# Configuration
+
+It doesn't need configuration. 
+
+Works automatically after installation.
+
+TTFB overhead is minimal.
+
+
+
 # Interested in speeding up Magento?
 
 Make sure you read my blog posts:
