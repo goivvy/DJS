@@ -8,7 +8,7 @@
  * to sales@goivvy.com so we can send you a copy immediately.
  *
  * @component  Goivvy_DJS
- * @copyright  Copyright (c) 2017 Goivvy.com. (https://www.goivvy.com)
+ * @copyright  Copyright (c) 2017 GOIVVY LLC (https://www.goivvy.com)
  * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  * @author     Goivvy.com <sales@goivvy.com>
  */
