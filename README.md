@@ -33,10 +33,6 @@ TTFB overhead is minimal.
 
 # Interested in speeding up Magento?
 
-Make sure you read my blog posts:
+See 30 tips to speed up Magento 2:
 
 https://www.goivvy.com/blog/speed-up-magento-2
-
-https://www.goivvy.com/blog/speed-up-magento
-
-https://www.goivvy.com/blog/magento-2-ttfb-optimization
